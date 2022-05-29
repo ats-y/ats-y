@@ -1,4 +1,7 @@
 ### Hi there 👋
+This is my playground.
+
+my memorandum ： https://qiita.com/ats-y
 
 <!--
 **ats-y/ats-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
